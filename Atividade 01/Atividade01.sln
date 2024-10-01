@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade01", "Atividade01\Atividade01.csproj", "{AF090E53-878D-4A9F-8ADF-A2E0E8330616}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 - Convertendo Valores", "..\..\Introdução C#\03 - Convertendo Valores\03 - Convertendo Valores\03 - Convertendo Valores.csproj", "{9D06783A-C92C-4823-ADBD-A0CB9929A084}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 - Variáveis", "..\..\Introdução C#\02 - Variaveis\02 - Variáveis\02 - Variáveis.csproj", "{B5FCEB52-AAC0-468F-8414-837168B50481}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 - Operadores Matematicos", "..\..\Introdução C#\04 - Operadores Matematicos\04 - Operadores Matematicos\04 - Operadores Matematicos.csproj", "{F7CC32CF-49ED-494E-9997-D50FA80FE97E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo - 01", "..\..\Introdução C#\01 - Exemplo\Exemplo - 01\Exemplo - 01.csproj", "{1DCC2C3E-E550-4FFB-A741-3043389AE2F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF090E53-878D-4A9F-8ADF-A2E0E8330616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF090E53-878D-4A9F-8ADF-A2E0E8330616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF090E53-878D-4A9F-8ADF-A2E0E8330616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF090E53-878D-4A9F-8ADF-A2E0E8330616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D06783A-C92C-4823-ADBD-A0CB9929A084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D06783A-C92C-4823-ADBD-A0CB9929A084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D06783A-C92C-4823-ADBD-A0CB9929A084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D06783A-C92C-4823-ADBD-A0CB9929A084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5FCEB52-AAC0-468F-8414-837168B50481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FCEB52-AAC0-468F-8414-837168B50481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FCEB52-AAC0-468F-8414-837168B50481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FCEB52-AAC0-468F-8414-837168B50481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CC32CF-49ED-494E-9997-D50FA80FE97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CC32CF-49ED-494E-9997-D50FA80FE97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CC32CF-49ED-494E-9997-D50FA80FE97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CC32CF-49ED-494E-9997-D50FA80FE97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCC2C3E-E550-4FFB-A741-3043389AE2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCC2C3E-E550-4FFB-A741-3043389AE2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCC2C3E-E550-4FFB-A741-3043389AE2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCC2C3E-E550-4FFB-A741-3043389AE2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {485A1396-EE50-4A76-8344-28C86BFD492C}
+	EndGlobalSection
+EndGlobal

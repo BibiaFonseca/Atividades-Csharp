@@ -1,0 +1,14 @@
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\bin\Debug\net8.0\Atividade 09.exe
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\bin\Debug\net8.0\Atividade 09.deps.json
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\bin\Debug\net8.0\Atividade 09.runtimeconfig.json
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\bin\Debug\net8.0\Atividade 09.dll
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\bin\Debug\net8.0\Atividade 09.pdb
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\obj\Debug\net8.0\Atividade 09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\obj\Debug\net8.0\Atividade 09.AssemblyInfoInputs.cache
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\obj\Debug\net8.0\Atividade 09.AssemblyInfo.cs
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\obj\Debug\net8.0\Atividade 09.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\obj\Debug\net8.0\Atividade 09.dll
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\obj\Debug\net8.0\refint\Atividade 09.dll
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\obj\Debug\net8.0\Atividade 09.pdb
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\obj\Debug\net8.0\Atividade 09.genruntimeconfig.cache
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 09\Atividade 09\obj\Debug\net8.0\ref\Atividade 09.dll

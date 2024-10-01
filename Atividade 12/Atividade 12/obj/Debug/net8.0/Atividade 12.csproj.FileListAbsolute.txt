@@ -1,0 +1,14 @@
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\bin\Debug\net8.0\Atividade 12.exe
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\bin\Debug\net8.0\Atividade 12.deps.json
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\bin\Debug\net8.0\Atividade 12.runtimeconfig.json
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\bin\Debug\net8.0\Atividade 12.dll
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\bin\Debug\net8.0\Atividade 12.pdb
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\obj\Debug\net8.0\Atividade 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\obj\Debug\net8.0\Atividade 12.AssemblyInfoInputs.cache
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\obj\Debug\net8.0\Atividade 12.AssemblyInfo.cs
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\obj\Debug\net8.0\Atividade 12.csproj.CoreCompileInputs.cache
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\obj\Debug\net8.0\Atividade 12.dll
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\obj\Debug\net8.0\refint\Atividade 12.dll
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\obj\Debug\net8.0\Atividade 12.pdb
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\obj\Debug\net8.0\Atividade 12.genruntimeconfig.cache
+C:\Users\Bia\Desktop\Back End\Atividades\Atividade 12\Atividade 12\obj\Debug\net8.0\ref\Atividade 12.dll
